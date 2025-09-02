@@ -2,8 +2,10 @@
 
 # Setup
 #### Repo
-command: git clone url
-
+Clone repo using command
+```
+git clone <url>
+```
 #### IDE (VSCode)
 For VSCode, install extension Pack for Java
 
