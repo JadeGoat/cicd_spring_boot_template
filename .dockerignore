@@ -1,0 +1,20 @@
+# spring initializer related files & folder
+.mvn/
+mvwn
+mvnw.cmd
+
+# spring boot source related files
+src/
+pom.xml
+
+# test folders
+logs/
+test/
+
+# exclude unnecessary folders
+.vscode/
+
+# exclude unnecessary file
+Dockerfile
+HELP.md
+README.md

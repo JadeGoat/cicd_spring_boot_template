@@ -33,4 +33,5 @@ build/
 .vscode/
 
 # exclude env file
+.env_docker
 .env
