@@ -16,5 +16,6 @@ test/
 
 # exclude unnecessary file
 Dockerfile
+Dockerfile_SpringBoot
 HELP.md
 README.md
